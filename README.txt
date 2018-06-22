@@ -1,3 +1,5 @@
+**Use Python 3**
+
 This program allows the user to play a single-player dice game based loosely on the game Farkle.
 
 - The game consists of 3 turns, and the aim of the game is to score as many points as possible
